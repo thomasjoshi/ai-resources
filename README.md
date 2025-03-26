@@ -6,6 +6,9 @@
 ## LLM Alignment
 1. [BPO: Staying Close to the Behavior LLM Creates Better Online LLM Alignment.](https://arxiv.org/pdf/2406.12168)
 
+## Distributed AI Inference
+1. [DistServe: Disaggregating Prefill and Decoding for Goodput-optimized Large Language Model Serving](https://www.usenix.org/system/files/osdi24-zhong-yinmin.pdf)
+2. [Dynamo Tutorials](https://www.linkedin.com/posts/vikramsharmam_distributed-inference-101-getting-started-activity-7308019486517858305-JX7e?utm_source=share&utm_medium=member_ios&rcm=ACoAAB-7BosBbrFaamvv690_M7ruCd3EHmcHhg0)
 
 ## Long Task
 
