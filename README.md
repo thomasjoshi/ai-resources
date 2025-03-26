@@ -1,5 +1,12 @@
 # Resources to Become a Cracked AI Engineer
 
+## PhD Defenses
+1. [On Evaluation and Efficient Post-training for LLMs](https://docs.google.com/presentation/d/1-4qwacAMJ012Pv5W5xvTAhfqmF7M9CqN/edit?slide=id.p1#slide=id.p1)
+
+## LLM Alignment
+1. [BPO: Staying Close to the Behavior LLM Creates Better Online LLM Alignment.](https://arxiv.org/pdf/2406.12168)
+
+
 ## Long Task
 
 1. Measuring AI Ability to Complete Long Tasks - [Paper](https://arxiv.org/pdf/2503.14499) - [Code](https://github.com/METR/eval-analysis-public)
@@ -23,3 +30,4 @@
 4. [The Probabilistic Method](https://math.bme.hu/~gabor/oktatas/SztoM/AlonSpencer.ProbMethod3ed.pdf)
 5. [Prediction, Learning, and Games](https://www.cambridge.org/core/books/prediction-learning-and-games/A05C9F6ABC752FAB8954C885D0065C8F)
 6. [Neural Network Learning: Theoretical Foundations](https://www.cambridge.org/core/books/neural-network-learning/665C8C7EB5E2ABC5367A55ADB04E2866)
+7. [Convex Optimization – Boyd and Vandenberghe](https://stanford.edu/~boyd/cvxbook/)
