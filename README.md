@@ -1,5 +1,11 @@
 # Resources to Become a Cracked AI Engineer
 
+## Inference Acceleration
+1. [Efficient Memory Management for Large Language Model Serving with PagedAttention](https://arxiv.org/pdf/2309.06180)
+2. [FLEX ATTENTION: A PROGRAMMING MODEL FOR GENERATING OPTIMIZED ATTENTION KERNELS](https://arxiv.org/pdf/2412.05496)
+3. [VLLM Attention Kernels](https://github.com/vllm-project/vllm/blob/main/csrc/attention/attention_kernels.cuh)
+4. [Attention Gym Paged Attention Implementation](https://github.com/pytorch-labs/attention-gym/blob/main/attn_gym/paged_attention/paged_attention.py)
+
 ## PhD Defenses
 1. [On Evaluation and Efficient Post-training for LLMs](https://docs.google.com/presentation/d/1-4qwacAMJ012Pv5W5xvTAhfqmF7M9CqN/edit?slide=id.p1#slide=id.p1)
 
@@ -35,3 +41,4 @@
 6. [Neural Network Learning: Theoretical Foundations](https://www.cambridge.org/core/books/neural-network-learning/665C8C7EB5E2ABC5367A55ADB04E2866)
 7. [Convex Optimization – Boyd and Vandenberghe](https://stanford.edu/~boyd/cvxbook/)
 8. [Learning with Kernels](https://mcube.lab.nycu.edu.tw/~cfung/docs/books/scholkopf2002learning_with_kernels.pdf)
+    8.1 Provides great intuition for why kernels are useful.
