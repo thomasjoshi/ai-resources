@@ -42,3 +42,6 @@
 7. [Convex Optimization – Boyd and Vandenberghe](https://stanford.edu/~boyd/cvxbook/)
 8. [Learning with Kernels](https://mcube.lab.nycu.edu.tw/~cfung/docs/books/scholkopf2002learning_with_kernels.pdf)
     8.1 Provides great intuition for why kernels are useful.
+
+## Statistical Inference
+1. [Mathematical Statistics](https://link.springer.com/book/10.1007/b97553)
