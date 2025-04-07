@@ -47,3 +47,6 @@
 
 ## Statistical Inference
 1. [Mathematical Statistics](https://link.springer.com/book/10.1007/b97553)
+
+## Philosophy of AI
+1. [AI 2027](https://ai-2027.com/)
