@@ -17,11 +17,13 @@
 2. [Dynamo AI Tutorials](https://www.linkedin.com/posts/vikramsharmam_distributed-inference-101-getting-started-activity-7308019486517858305-JX7e?utm_source=share&utm_medium=member_ios&rcm=ACoAAB-7BosBbrFaamvv690_M7ruCd3EHmcHhg0)
 
 ## Long Task
-
 1. Measuring AI Ability to Complete Long Tasks - [Paper](https://arxiv.org/pdf/2503.14499) - [Code](https://github.com/METR/eval-analysis-public)
 
 ## Agent Browser Tools
 1. [Stagehand Docs](https://docs.stagehand.dev/get_started/introduction)
+
+## Agent Overview
+1. [ADVANCES AND CHALLENGES IN FOUNDATION AGENTS](https://arxiv.org/pdf/2504.01990)
 
 ## Multimodal
 1. [WebVoyager: Building an End-to-End Web Agent with Large Multimodal Models](https://arxiv.org/pdf/2401.13919)
