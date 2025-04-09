@@ -34,6 +34,9 @@
 
 1. [TCP: A Tensor Contraction Processor for AI Workloads](https://dli5ezlttyahz.cloudfront.net/FuriosaAI-tensor-contraction-processor-isca24.pdf?p=download/FuriosaAI-tensor-contraction-processor-isca24)
 
+## AI Safety
+1. [Reasoning Models Don’t Always Say What They Think](https://assets.anthropic.com/m/71876fabef0f0ed4/original/reasoning_models_paper.pdf)
+
 ## Old School Machine Learning
 1. [Elements of Information Theory](https://cs-114.org/wp-content/uploads/2015/01/Elements_of_Information_Theory_Elements.pdf)
 2. [Pattern Classification](http://cscog.likufanele.com/~calvo/Inteligencia_Artificial_files/Duda%20R%20O,%20Hart%20P%20E,%20Stork%20D%20G_Pattern%20Classification%20%282Ed%20Wiley%29.pdf)
