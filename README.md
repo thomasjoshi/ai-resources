@@ -11,6 +11,9 @@
 
 ## LLM Alignment
 1. [BPO: Staying Close to the Behavior LLM Creates Better Online LLM Alignment.](https://arxiv.org/pdf/2406.12168)
+2. [FSPO: Few-Shot Preference Optimization of
+Synthetic Preference Data in LLMs Elicits
+Effective Personalization to Real Users](https://arxiv.org/pdf/2502.19312?)
 
 ## Distributed AI Inference
 1. [DistServe: Disaggregating Prefill and Decoding for Goodput-optimized Large Language Model Serving](https://www.usenix.org/system/files/osdi24-zhong-yinmin.pdf)
@@ -24,6 +27,8 @@
 
 ## Agent Overview
 1. [ADVANCES AND CHALLENGES IN FOUNDATION AGENTS](https://arxiv.org/pdf/2504.01990)
+2. [PhD Dissertation: Language Agents From Next-Token Prediction to Digital Automation](https://ysymyth.github.io/papers/Dissertation-finalized.pdf)
+3. [Why Do Multi-Agent LLM Systems Fail?](https://export-test.arxiv.org/pdf/2503.13657)
 
 ## Multimodal
 1. [WebVoyager: Building an End-to-End Web Agent with Large Multimodal Models](https://arxiv.org/pdf/2401.13919)
@@ -53,3 +58,7 @@
 
 ## Philosophy of AI
 1. [AI 2027](https://ai-2027.com/)
+
+
+## Graph Learning
+1. [Mining and Learning with Graphs at Scale](https://neurips.cc/Expo/Conferences/2020/workshop/20237)
