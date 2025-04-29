@@ -19,8 +19,9 @@ Effective Personalization to Real Users](https://arxiv.org/pdf/2502.19312?)
 1. [DistServe: Disaggregating Prefill and Decoding for Goodput-optimized Large Language Model Serving](https://www.usenix.org/system/files/osdi24-zhong-yinmin.pdf)
 2. [Dynamo AI Tutorials](https://www.linkedin.com/posts/vikramsharmam_distributed-inference-101-getting-started-activity-7308019486517858305-JX7e?utm_source=share&utm_medium=member_ios&rcm=ACoAAB-7BosBbrFaamvv690_M7ruCd3EHmcHhg0)
 
-## Long Task
-1. Measuring AI Ability to Complete Long Tasks - [Paper](https://arxiv.org/pdf/2503.14499) - [Code](https://github.com/METR/eval-analysis-public)
+## AI Reasoning
+1. [Measuring AI Ability to Complete Long Tasks](https://arxiv.org/pdf/2503.14499) - [Code](https://github.com/METR/eval-analysis-public)
+2. [Evolving Deeper LLM Thinking](https://arxiv.org/pdf/2501.09891)
 
 ## Agent Browser Tools
 1. [Stagehand Docs](https://docs.stagehand.dev/get_started/introduction)
@@ -30,15 +31,15 @@ Effective Personalization to Real Users](https://arxiv.org/pdf/2502.19312?)
 2. [PhD Dissertation: Language Agents From Next-Token Prediction to Digital Automation](https://ysymyth.github.io/papers/Dissertation-finalized.pdf)
 3. [Why Do Multi-Agent LLM Systems Fail?](https://export-test.arxiv.org/pdf/2503.13657)
 4. [REST MEETS REACT: SELF-IMPROVEMENT FOR MULTI-STEP REASONING LLM AGENT](https://arxiv.org/pdf/2312.10003)
-
-
-## Compound AI Systems
-1. [HETEROGENEOUS SWARMS: Jointly Optimizing Model Roles and Weights for Multi-LLM Systems](https://arxiv.org/pdf/2502.04510)
+5. [Agent Q: Advanced Reasoning and Learning for Autonomous AI Agents](https://arxiv.org/pdf/2408.07199)
 
 ## Multimodal
 1. [WebVoyager: Building an End-to-End Web Agent with Large Multimodal Models](https://arxiv.org/pdf/2401.13919)
 2. [Set-of-Mark Prompting Unleashes Extraordinary Visual Grounding in GPT-4V](https://arxiv.org/pdf/2310.11441)
 3. [Explorer: Scaling Exploration-driven Web Trajectory Synthesis for Multimodal Web Agents](https://arxiv.org/pdf/2502.11357)
+
+## Compound AI Systems
+1. [HETEROGENEOUS SWARMS: Jointly Optimizing Model Roles and Weights for Multi-LLM Systems](https://arxiv.org/pdf/2502.04510)
 
 ## AI Chip Manufacturing
 
@@ -67,7 +68,10 @@ Effective Personalization to Real Users](https://arxiv.org/pdf/2502.19312?)
 ## Graph Learning
 1. [Google at NeurIPs: Mining and Learning with Graphs at Scale](https://neurips.cc/Expo/Conferences/2020/workshop/20237)
 
+## Compute Orchestration
+1. [Cilantro: Performance-Aware Resource Allocation for Large LanguageGeneral Objectives via Online Feedback](https://www.usenix.org/system/files/osdi23-bhardwaj.pdf)
 
 ## Mathematic Foundations
 1. Numerical Optimization by Jorge Nocedal Stephen Wright
 2. Elements of Information Theory
+
