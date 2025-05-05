@@ -6,6 +6,10 @@
 3. [VLLM Attention Kernels](https://github.com/vllm-project/vllm/blob/main/csrc/attention/attention_kernels.cuh)
 4. [Attention Gym Paged Attention Implementation](https://github.com/pytorch-labs/attention-gym/blob/main/attn_gym/paged_attention/paged_attention.py)
 
+## Synthetic Data Generation
+1. [Synthetic Data Generation & Multi-Step RL for Reasoning & Tool Use](https://arxiv.org/pdf/2504.04736)
+2. [Physics of Language Models](https://physics.allen-zhu.com/part-4-architecture-design/part-4-1)
+
 ## PhD Defenses
 1. [On Evaluation and Efficient Post-training for LLMs](https://docs.google.com/presentation/d/1-4qwacAMJ012Pv5W5xvTAhfqmF7M9CqN/edit?slide=id.p1#slide=id.p1)
 
