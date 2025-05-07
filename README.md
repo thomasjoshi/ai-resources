@@ -5,10 +5,16 @@
 2. [FLEX ATTENTION: A PROGRAMMING MODEL FOR GENERATING OPTIMIZED ATTENTION KERNELS](https://arxiv.org/pdf/2412.05496)
 3. [VLLM Attention Kernels](https://github.com/vllm-project/vllm/blob/main/csrc/attention/attention_kernels.cuh)
 4. [Attention Gym Paged Attention Implementation](https://github.com/pytorch-labs/attention-gym/blob/main/attn_gym/paged_attention/paged_attention.py)
+5. [CONTEXT PARALLELISM FOR SCALABLE MILLION-TOKEN INFERENCE](https://arxiv.org/pdf/2411.01783)
+6. [The Deep Learning Compiler: A Comprehensive Survey](https://arxiv.org/pdf/2002.03794)
 
 ## Synthetic Data Generation
 1. [Synthetic Data Generation & Multi-Step RL for Reasoning & Tool Use](https://arxiv.org/pdf/2504.04736)
 2. [Physics of Language Models](https://physics.allen-zhu.com/part-4-architecture-design/part-4-1)
+
+## Continual Learning
+1. [Lifelong Learning of Large Language Model based Agents: A Roadmap](https://arxiv.org/pdf/2501.07278)
+2. [TRACE: A COMPREHENSIVE BENCHMARK FOR CONTINUAL LEARNING IN LARGE LANGUAGE MODELS](https://openreview.net/pdf?id=xelrLobW0n)
 
 ## PhD Defenses
 1. [On Evaluation and Efficient Post-training for LLMs](https://docs.google.com/presentation/d/1-4qwacAMJ012Pv5W5xvTAhfqmF7M9CqN/edit?slide=id.p1#slide=id.p1)
@@ -42,8 +48,10 @@ Effective Personalization to Real Users](https://arxiv.org/pdf/2502.19312?)
 2. [Set-of-Mark Prompting Unleashes Extraordinary Visual Grounding in GPT-4V](https://arxiv.org/pdf/2310.11441)
 3. [Explorer: Scaling Exploration-driven Web Trajectory Synthesis for Multimodal Web Agents](https://arxiv.org/pdf/2502.11357)
 
-## Compound AI Systems
+## Compound AI Systems and RAG
 1. [HETEROGENEOUS SWARMS: Jointly Optimizing Model Roles and Weights for Multi-LLM Systems](https://arxiv.org/pdf/2502.04510)
+2. [LLM-based Optimization of Compound AI Systems: A Survey](https://arxiv.org/pdf/2410.16392)
+3. [Microsoft Trace - End-to-end Generative Optimization for AI Agents - DSPy Alternative](https://github.com/microsoft/Trace)
 
 ## AI Chip Manufacturing
 
