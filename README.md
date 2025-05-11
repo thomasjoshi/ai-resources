@@ -42,7 +42,11 @@ Effective Personalization to Real Users](https://arxiv.org/pdf/2502.19312?)
 3. [Why Do Multi-Agent LLM Systems Fail?](https://export-test.arxiv.org/pdf/2503.13657)
 4. [REST MEETS REACT: SELF-IMPROVEMENT FOR MULTI-STEP REASONING LLM AGENT](https://arxiv.org/pdf/2312.10003)
 5. [Agent Q: Advanced Reasoning and Learning for Autonomous AI Agents](https://arxiv.org/pdf/2408.07199)
-6. [SWE-BENCH MULTIMODAL: DO AI SYSTEMS GENERALIZE TO VISUAL SOFTWARE DOMAINS?](https://arxiv.org/pdf/2410.03859)
+6. [Rethinking Memory in AI: Taxonomy, Operations, Topics, and Future Directions](https://arxiv.org/pdf/2505.00675)
+
+## Coding Agents
+1. [SWE-BENCH MULTIMODAL: DO AI SYSTEMS GENERALIZE TO VISUAL SOFTWARE DOMAINS?](https://arxiv.org/pdf/2410.03859)
+2. [SWE-bench Verified](https://openai.com/index/introducing-swe-bench-verified/)
 
 ## Multimodal
 1. [WebVoyager: Building an End-to-End Web Agent with Large Multimodal Models](https://arxiv.org/pdf/2401.13919)
