@@ -7,6 +7,11 @@
 4. [Attention Gym Paged Attention Implementation](https://github.com/pytorch-labs/attention-gym/blob/main/attn_gym/paged_attention/paged_attention.py)
 5. [CONTEXT PARALLELISM FOR SCALABLE MILLION-TOKEN INFERENCE](https://arxiv.org/pdf/2411.01783)
 6. [The Deep Learning Compiler: A Comprehensive Survey](https://arxiv.org/pdf/2002.03794)
+7. [Kernel Library for LLM Serving](https://github.com/flashinfer-ai/flashinfer)
+
+## Distributed AI Inference
+1. [DistServe: Disaggregating Prefill and Decoding for Goodput-optimized Large Language Model Serving](https://www.usenix.org/system/files/osdi24-zhong-yinmin.pdf)
+2. [Dynamo AI Tutorials](https://www.linkedin.com/posts/vikramsharmam_distributed-inference-101-getting-started-activity-7308019486517858305-JX7e?utm_source=share&utm_medium=member_ios&rcm=ACoAAB-7BosBbrFaamvv690_M7ruCd3EHmcHhg0)
 
 ## Synthetic Data Generation
 1. [Synthetic Data Generation & Multi-Step RL for Reasoning & Tool Use](https://arxiv.org/pdf/2504.04736)
@@ -24,10 +29,6 @@
 2. [FSPO: Few-Shot Preference Optimization of
 Synthetic Preference Data in LLMs Elicits
 Effective Personalization to Real Users](https://arxiv.org/pdf/2502.19312?)
-
-## Distributed AI Inference
-1. [DistServe: Disaggregating Prefill and Decoding for Goodput-optimized Large Language Model Serving](https://www.usenix.org/system/files/osdi24-zhong-yinmin.pdf)
-2. [Dynamo AI Tutorials](https://www.linkedin.com/posts/vikramsharmam_distributed-inference-101-getting-started-activity-7308019486517858305-JX7e?utm_source=share&utm_medium=member_ios&rcm=ACoAAB-7BosBbrFaamvv690_M7ruCd3EHmcHhg0)
 
 ## AI Reasoning
 1. [Measuring AI Ability to Complete Long Tasks](https://arxiv.org/pdf/2503.14499) - [Code](https://github.com/METR/eval-analysis-public)
@@ -47,6 +48,7 @@ Effective Personalization to Real Users](https://arxiv.org/pdf/2502.19312?)
 ## Coding Agents
 1. [SWE-BENCH MULTIMODAL: DO AI SYSTEMS GENERALIZE TO VISUAL SOFTWARE DOMAINS?](https://arxiv.org/pdf/2410.03859)
 2. [SWE-bench Verified](https://openai.com/index/introducing-swe-bench-verified/)
+3. [Code Generation with Small Language Models: A Deep Evaluation on Codeforces](https://arxiv.org/pdf/2504.07343)
 
 ## Multimodal
 1. [WebVoyager: Building an End-to-End Web Agent with Large Multimodal Models](https://arxiv.org/pdf/2401.13919)
