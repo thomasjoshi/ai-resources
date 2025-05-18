@@ -20,6 +20,7 @@
 ## Continual Learning
 1. [Lifelong Learning of Large Language Model based Agents: A Roadmap](https://arxiv.org/pdf/2501.07278)
 2. [TRACE: A COMPREHENSIVE BENCHMARK FOR CONTINUAL LEARNING IN LARGE LANGUAGE MODELS](https://openreview.net/pdf?id=xelrLobW0n)
+3. [A Comprehensive Survey of Continual Learning: Theory, Method and Application](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10444954)
 
 ## PhD Defenses
 1. [On Evaluation and Efficient Post-training for LLMs](https://docs.google.com/presentation/d/1-4qwacAMJ012Pv5W5xvTAhfqmF7M9CqN/edit?slide=id.p1#slide=id.p1)
@@ -59,6 +60,13 @@ Effective Personalization to Real Users](https://arxiv.org/pdf/2502.19312?)
 1. [HETEROGENEOUS SWARMS: Jointly Optimizing Model Roles and Weights for Multi-LLM Systems](https://arxiv.org/pdf/2502.04510)
 2. [LLM-based Optimization of Compound AI Systems: A Survey](https://arxiv.org/pdf/2410.16392)
 3. [Microsoft Trace - End-to-end Generative Optimization for AI Agents - DSPy Alternative](https://github.com/microsoft/Trace)
+
+## Reinforcement Learning
+1. [SkyRL](https://github.com/NovaSky-AI/SkyRL)
+2. [Absolute Zero Reasoner](https://github.com/LeapLabTHU/Absolute-Zero-Reasoner)
+3. [TinyZero](https://github.com/leaplab-thu/TinyZero)
+4. [ZeroReason](https://github.com/Jiayi-Pan/TinyZero)
+5. [rLLM](https://github.com/agentica-project/rllm)
 
 ## AI Chip Manufacturing
 
