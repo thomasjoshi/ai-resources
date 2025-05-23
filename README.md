@@ -33,11 +33,30 @@
     * Use MCP for async communication 
 
 6. Cisco - Arjun Sambamoorthy - Securing MCP in an Agentic World
-    * Tool Poisoining: Client calls a malicious MCP server which invjects malicious prompt into the LLM
-    * Parameter Abuse:
+    * Tool Poisoning: Client calls a malicious MCP server which invjects malicious prompt into the LLM
+    * Parameter Abuse: use parameters to inject malicious code into the LLM
+    * Wrong Tool Selection: two tools which similar descriptions
+    * Indirect Poisoning: Webpage given a malicious instruction to the MCP server which goes back to the client
+
+7. LLama Index - Laurie Voss - MCP vs. ACP vs. A2A: Comparing Agent Protocols
+    * [A Survey of AI Agent Protocols](https://arxiv.org/pdf/2504.16736)
+    * [Agent Network Protocol](https://agent-network-protocol.com/)
+    * AITP: Agent Interaction & Transaction Protocol
+    * [ACP: Agent Connect Protocol](https://github.com/agent-network-protocol/AgentConnect)
+    * [ACP IBM](https://workos.com/blog/ibm-agent-communication-protocol-acp)
+    * Agora
+
+
+
+### MIT Nanda Project(https://nanda.media.mit.edu/)
 
 ## Data Infrastructure
 1. [Data Mesh](https://www.nextdata.com/)
+    * Data is the runtime substrate for AI agents: Autonomous agents depend entirely on the integrity, semantics, and freshness of the data they consume — not just the model weights — making data governance and discoverability critical infrastructure, not optional add-ons.
+    * Traditional data platforms are agent-hostile: Legacy architectures lack real-time metadata, semantic schemas, and access guarantees — causing agents to hallucinate, expose PII, or act on stale or irrelevant inputs, severely limiting their reliability in production.
+    * Autonomous data products encapsulate trust and runtime safety: Nextdata OS standardizes access via APIs enriched with metadata, freshness guarantees, and semantic structure — enabling agents to reason and act autonomously while minimizing risk.
+    * Scalable agent ecosystems require cross-product discovery: Agents must continuously discover and consume new data products. Nextdata OS enables this via discovery APIs, allowing agents to adapt to data evolution without human reconfiguration — a foundational capability for AI-native enterprises.
+    * Interoperability and governance are non-negotiable: By aligning with standards like the MCP protocol and embedding policy enforcement at the product level, Nextdata OS supports safe, permissioned agent access — especially vital in regulated industries like finance and healthcare.
 
 ## Inference Acceleration
 1. [Efficient Memory Management for Large Language Model Serving with PagedAttention](https://arxiv.org/pdf/2309.06180)
