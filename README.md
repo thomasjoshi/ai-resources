@@ -1,14 +1,19 @@
+# Final AI Guide
+
 ## MCP
+
 ### [MCP Summit](https://mcpdevsummit.ai/)
-1. OpenAI - Nick Cooper Talk - Future of MCP 
+1. OpenAI - Nick Cooper - Future of MCP 
     * Specialization: MCP tools that can make policy decisions, language translation
     * Federation: Merging results from different servers
     * Steering: Information changes over time, and needs to update model context as it reasons
+
 2. Acorn Labs - Darren Sherpder CTO - Why Are Agents So Hard?
     * MCP replaces all components taking it from retrieval, tool calling, and writing from [Anthropic Agents Guide](https://www.anthropic.com/engineering/building-effective-agents) to replacing everythign with an MCP tool
     * Tools used in his workflow: playwright for testing, [FastMCP](https://github.com/jlowin/fastmcp), [Nanobot](https://github.com/nanobot-ai/nanobot) 
     * Async coding agents are super easy to build because you can just give the file system and commands to manipulate file systems
     * Outstanding problem: distributed tracing
+
 3. Paypal - Brendan Lane, Nitin Sharma - Building an MCP Server for Agentic Commerce
     * You can do online shopping through Claude, describe the item you are looking to purchase, it finds the item, and authenticates with PayPal within the Claude chat window --> changes non exploratory ecommerce
     * Any chat interface can call get_paypal_mcp_tools to enable commerce enabled chatbots
@@ -27,7 +32,9 @@
     * [Spring AI Tool](https://github.com/spring-projects/spring-ai): apply to the AI domain Spring ecosystem design principles such as portability and modular design and promote using POJOs as the building blocks of an application to the AI domain
     * Use MCP for async communication 
 
-6. 
+6. Cisco - Arjun Sambamoorthy - Securing MCP in an Agentic World
+    * Tool Poisoining: Client calls a malicious MCP server which invjects malicious prompt into the LLM
+    * Parameter Abuse:
 
 ## Data Infrastructure
 1. [Data Mesh](https://www.nextdata.com/)
