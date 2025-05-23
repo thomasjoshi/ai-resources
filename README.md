@@ -44,11 +44,13 @@
     * AITP: Agent Interaction & Transaction Protocol
     * [ACP: Agent Connect Protocol](https://github.com/agent-network-protocol/AgentConnect)
     * [ACP IBM](https://workos.com/blog/ibm-agent-communication-protocol-acp)
-    * Agora
+    * [Eclipse LMOS](https://eclipse.dev/lmos/)
+    * MCP lacks asynchorous, renegotiation (upgrade the protcol like in Agora), but it's done one thing well: it started with a small problem and got traction for one small problem and can address all other problem later
 
 
 
-### MIT Nanda Project(https://nanda.media.mit.edu/)
+### MIT Nanda Project (https://nanda.media.mit.edu/)
+
 
 ## Data Infrastructure
 1. [Data Mesh](https://www.nextdata.com/)
