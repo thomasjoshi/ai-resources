@@ -1,4 +1,4 @@
-# Final AI Guide
+# The AI Engineer's Guide
 
 ## MCP
 
