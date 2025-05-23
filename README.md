@@ -23,13 +23,14 @@
     * [Goose tool](https://github.com/block/goose): a local, extensible, open source AI agent that automates engineering tasks
     
 5. Amazon Web Services Generative AI - Nicholas Aldridge (MCP Steering Committee Member) - Multi-Agent Collaboration in MCP
-*  Nested MCPs: In tool calling you can call another MCP
-* [Spring AI Tool](https://github.com/spring-projects/spring-ai): apply to the AI domain Spring ecosystem design principles such as portability and modular design and promote using POJOs as the building blocks of an application to the AI domain
-* Use MCP for async communication 
+    *  Nested MCPs: In tool calling you can call another MCP
+    * [Spring AI Tool](https://github.com/spring-projects/spring-ai): apply to the AI domain Spring ecosystem design principles such as portability and modular design and promote using POJOs as the building blocks of an application to the AI domain
+    * Use MCP for async communication 
+
+6. 
 
 ## Data Infrastructure
 1. [Data Mesh](https://www.nextdata.com/)
-2. 
 
 ## Inference Acceleration
 1. [Efficient Memory Management for Large Language Model Serving with PagedAttention](https://arxiv.org/pdf/2309.06180)
