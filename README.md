@@ -1,14 +1,35 @@
-## MCP Summit
-1. [OpenAI - Nick Cooper Talk]
-    * Future of MCP 
-        * Specialization: MCP tools that can make policy decisions, language translation
-        * Federation: Merging results from different servers
-        * Steering: Information changes over time, and needs to update model context as it reasons
-2. [Acorn Labs - Darren Sherpder CTO Talk - Why Are Agents So Hard?]
-* MCP replaces all components taking it from retrieval, tool calling, and writing from [Anthropic Agents Guide](https://www.anthropic.com/engineering/building-effective-agents) to replacing everythign with an MCP tool
-* Tools used in demo: playwright, FastMCP, [Nanobot](https://github.com/nanobot-ai/nanobot) 
-* Async coding agents are super easy to build because you can just give the file system and commands to manipulate file systems
-* Outsanding problems: distributed tracing
+## MCP
+### [MCP Summit](https://mcpdevsummit.ai/)
+1. OpenAI - Nick Cooper Talk - Future of MCP 
+    * Specialization: MCP tools that can make policy decisions, language translation
+    * Federation: Merging results from different servers
+    * Steering: Information changes over time, and needs to update model context as it reasons
+2. Acorn Labs - Darren Sherpder CTO - Why Are Agents So Hard?
+    * MCP replaces all components taking it from retrieval, tool calling, and writing from [Anthropic Agents Guide](https://www.anthropic.com/engineering/building-effective-agents) to replacing everythign with an MCP tool
+    * Tools used in his workflow: playwright for testing, [FastMCP](https://github.com/jlowin/fastmcp), [Nanobot](https://github.com/nanobot-ai/nanobot) 
+    * Async coding agents are super easy to build because you can just give the file system and commands to manipulate file systems
+    * Outstanding problem: distributed tracing
+3. Paypal - Brendan Lane, Nitin Sharma - Building an MCP Server for Agentic Commerce
+    * You can do online shopping through Claude, describe the item you are looking to purchase, it finds the item, and authenticates with PayPal within the Claude chat window --> changes non exploratory ecommerce
+    * Any chat interface can call get_paypal_mcp_tools to enable commerce enabled chatbots
+    * How to design an MCP Server? 
+        * Tool ownership & scope: Who owns the tool? Includes traditional access management, logging, schema definition
+        * Tool function & behavior: What does the tool do? Single repsonsiblity just like microservices design
+        * Tool evaluation & life cycle: How does the tool evolve? Monitoring usage patterns like 7-day activity, CI validation
+
+4. Dagger - Solomon Hykes (Founder of Docker) - Typed Composition with MCP
+    * Problem with LLMs if you want to interact with its environment, you often have a container which is a good container but it can containimate your workspace if you let it run in the background. 
+    * Raw tool calling straight to endpoint or over MCP which is nice decoupling with an ecosystem of tools? The tools are in a name space that are flat. The problem is that you when you have shell commands which return objects instead of primitive types, you quickly have a contaninamted environment
+    * [Goose tool](https://github.com/block/goose): a local, extensible, open source AI agent that automates engineering tasks
+    
+5. Amazon Web Services Generative AI - Nicholas Aldridge (MCP Steering Committee Member) - Multi-Agent Collaboration in MCP
+*  Nested MCPs: In tool calling you can call another MCP
+* [Spring AI Tool](https://github.com/spring-projects/spring-ai): apply to the AI domain Spring ecosystem design principles such as portability and modular design and promote using POJOs as the building blocks of an application to the AI domain
+* Use MCP for async communication 
+
+## Data Infrastructure
+1. [Data Mesh](https://www.nextdata.com/)
+2. 
 
 ## Inference Acceleration
 1. [Efficient Memory Management for Large Language Model Serving with PagedAttention](https://arxiv.org/pdf/2309.06180)
@@ -37,9 +58,7 @@
 
 ## LLM Alignment
 1. [BPO: Staying Close to the Behavior LLM Creates Better Online LLM Alignment.](https://arxiv.org/pdf/2406.12168)
-2. [FSPO: Few-Shot Preference Optimization of
-Synthetic Preference Data in LLMs Elicits
-Effective Personalization to Real Users](https://arxiv.org/pdf/2502.19312?)
+2. [FSPO: Few-Shot Preference Optimization of Synthetic Preference Data in LLMs Elicits Effective Personalization to Real Users](https://arxiv.org/pdf/2502.19312?)
 
 ## AI Reasoning
 1. [Measuring AI Ability to Complete Long Tasks](https://arxiv.org/pdf/2503.14499) - [Code](https://github.com/METR/eval-analysis-public)
