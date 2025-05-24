@@ -2,7 +2,7 @@
 
 ## MCP
 
-### [MCP Summit](https://mcpdevsummit.ai/)
+### [MCP Summit](https://mcpdevsummit.ai/#page-1)
 1. OpenAI - Nick Cooper - Future of MCP 
     * Specialization: MCP tools that can make policy decisions, language translation
     * Federation: Merging results from different servers
@@ -30,7 +30,7 @@
 5. Amazon Web Services Generative AI - Nicholas Aldridge (MCP Steering Committee Member) - Multi-Agent Collaboration in MCP
     *  Nested MCPs: In tool calling you can call another MCP
     * [Spring AI Tool](https://github.com/spring-projects/spring-ai): apply to the AI domain Spring ecosystem design principles such as portability and modular design and promote using POJOs as the building blocks of an application to the AI domain
-    * Use MCP for async communication 
+    * [Open Protocols for Agent Interoperability Part 1: Inter-Agent Communication on MCP](https://aws.amazon.com/blogs/opensource/open-protocols-for-agent-interoperability-part-1-inter-agent-communication-on-mcp/)
 
 6. Cisco - Arjun Sambamoorthy - Securing MCP in an Agentic World
     * Tool Poisoning: Client calls a malicious MCP server which invjects malicious prompt into the LLM
@@ -47,9 +47,16 @@
     * [Eclipse LMOS](https://eclipse.dev/lmos/)
     * MCP lacks asynchorous, renegotiation (upgrade the protcol like in Agora), but it's done one thing well: it started with a small problem and got traction for one small problem and can address all other problem later
 
+8. Andressen Horrowitz - Yoko Li - [What MCP Middleware Could Look Like](https://gamma.app/docs/MCP-Middleware-pbuir25swchroty?mode=present#card-2jnv25t7fjgqr73)
+    * User preference space tool use: please do not execute shell commands
+    * Need a middleware that will route, cache, search tools 
+    * Machine-initiated workloads picking up
+
+9. AWS - Antje Barth - Scaling MCP
+* [AWS MCP Servers](https://github.com/awslabs/mcp)
 
 
-### MIT Nanda Project (https://nanda.media.mit.edu/)
+### [MIT Nanda Project] (https://nanda.media.mit.edu/)
 
 
 ## Data Infrastructure
