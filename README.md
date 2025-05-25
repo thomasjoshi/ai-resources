@@ -1,4 +1,4 @@
-# The AI Engineer's Guide
+# Thomas Joshi's Guide to AI Engineering Mastery
 
 ## MCP
 
@@ -59,13 +59,14 @@
 ### [MIT Nanda Project] (https://nanda.media.mit.edu/)
 
 
-## Data Infrastructure
+## Data Infrastructure and Distributed Systems
 1. [Data Mesh](https://www.nextdata.com/)
     * Data is the runtime substrate for AI agents: Autonomous agents depend entirely on the integrity, semantics, and freshness of the data they consume — not just the model weights — making data governance and discoverability critical infrastructure, not optional add-ons.
     * Traditional data platforms are agent-hostile: Legacy architectures lack real-time metadata, semantic schemas, and access guarantees — causing agents to hallucinate, expose PII, or act on stale or irrelevant inputs, severely limiting their reliability in production.
     * Autonomous data products encapsulate trust and runtime safety: Nextdata OS standardizes access via APIs enriched with metadata, freshness guarantees, and semantic structure — enabling agents to reason and act autonomously while minimizing risk.
     * Scalable agent ecosystems require cross-product discovery: Agents must continuously discover and consume new data products. Nextdata OS enables this via discovery APIs, allowing agents to adapt to data evolution without human reconfiguration — a foundational capability for AI-native enterprises.
     * Interoperability and governance are non-negotiable: By aligning with standards like the MCP protocol and embedding policy enforcement at the product level, Nextdata OS supports safe, permissioned agent access — especially vital in regulated industries like finance and healthcare.
+2. [CME 323: Distributed Algorithms and Optimization](https://web.stanford.edu/~rezab/classes/cme323/S16/)
 
 ## Inference Acceleration
 1. [Efficient Memory Management for Large Language Model Serving with PagedAttention](https://arxiv.org/pdf/2309.06180)
@@ -125,6 +126,14 @@
 1. [HETEROGENEOUS SWARMS: Jointly Optimizing Model Roles and Weights for Multi-LLM Systems](https://arxiv.org/pdf/2502.04510)
 2. [LLM-based Optimization of Compound AI Systems: A Survey](https://arxiv.org/pdf/2410.16392)
 3. [Microsoft Trace - End-to-end Generative Optimization for AI Agents - DSPy Alternative](https://github.com/microsoft/Trace)
+4. [Semantic Search with Weaviate's Query Agent, LlamaIndex and Comet](https://colab.research.google.com/drive/1Ef-VhKIJqj85K2fKa_sUR0N8WGJgik4x?usp=sharing&referrer=luma)
+
+
+## Model Training
+1. [Stanford CS336: Language Modeling from Scratch | Spring 2025](https://www.youtube.com/watch?v=ptFiH_bHnJw)
+2. [LLM Training with DeepSpeed](https://github.com/microsoft/DeepSpeed)
+3. [Gemini Flash Pretraining](https://vladfeinberg.com/2025/04/24/gemini-flash-pretraining.html)
+4. [Deepmind Efficient Training of Large Language Models](https://www.youtube.com/watch?v=1MqlbPsWnAA)
 
 ## Reinforcement Learning
 1. [SkyRL](https://github.com/NovaSky-AI/SkyRL)
@@ -137,6 +146,7 @@
 
 1. [TCP: A Tensor Contraction Processor for AI Workloads](https://dli5ezlttyahz.cloudfront.net/FuriosaAI-tensor-contraction-processor-isca24.pdf?p=download/FuriosaAI-tensor-contraction-processor-isca24)
 2. [Insights into DeepSeek-V3: Scaling Challenges and Reflections on Hardware for AI Architectures](https://arxiv.org/pdf/2505.09343)
+3. [There’s plenty of room at the Top: What will drive computer performance after Moore’s law?](https://www.science.org/doi/10.1126/science.aam9744)
 
 ## AI Safety
 1. [Reasoning Models Don’t Always Say What They Think](https://assets.anthropic.com/m/71876fabef0f0ed4/original/reasoning_models_paper.pdf)
