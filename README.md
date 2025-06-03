@@ -76,6 +76,7 @@
 5. [CONTEXT PARALLELISM FOR SCALABLE MILLION-TOKEN INFERENCE](https://arxiv.org/pdf/2411.01783)
 6. [The Deep Learning Compiler: A Comprehensive Survey](https://arxiv.org/pdf/2002.03794)
 7. [Kernel Library for LLM Serving](https://github.com/flashinfer-ai/flashinfer)
+8. [vLLM Office Hours #26 Intro to torch.compile and how it works with vLLM](https://www.youtube.com/watch?v=1aEFHpF69Lc)
 
 ## Distributed AI Inference
 1. [DistServe: Disaggregating Prefill and Decoding for Goodput-optimized Large Language Model Serving](https://www.usenix.org/system/files/osdi24-zhong-yinmin.pdf)
@@ -97,9 +98,11 @@
 1. [BPO: Staying Close to the Behavior LLM Creates Better Online LLM Alignment.](https://arxiv.org/pdf/2406.12168)
 2. [FSPO: Few-Shot Preference Optimization of Synthetic Preference Data in LLMs Elicits Effective Personalization to Real Users](https://arxiv.org/pdf/2502.19312?)
 
-## AI Reasoning
+## AI Reasoning and Agents
 1. [Measuring AI Ability to Complete Long Tasks](https://arxiv.org/pdf/2503.14499) - [Code](https://github.com/METR/eval-analysis-public)
 2. [Evolving Deeper LLM Thinking](https://arxiv.org/pdf/2501.09891)
+3. [OpenAI Agents SDK](https://github.com/openai/openai-agents-python)
+4. [OpenAI Evals](https://github.com/openai/evals)
 
 ## Agent Browser Tools
 1. [Stagehand Docs](https://docs.stagehand.dev/get_started/introduction)
@@ -112,10 +115,14 @@
 5. [Agent Q: Advanced Reasoning and Learning for Autonomous AI Agents](https://arxiv.org/pdf/2408.07199)
 6. [Rethinking Memory in AI: Taxonomy, Operations, Topics, and Future Directions](https://arxiv.org/pdf/2505.00675)
 
+## Vector Databases
+1. [Primers -- Approximate Nearest Neighbors -- Similarity Search](https://vinija.ai/concepts/ann-similarity-search/)
+
 ## Coding Agents
 1. [SWE-BENCH MULTIMODAL: DO AI SYSTEMS GENERALIZE TO VISUAL SOFTWARE DOMAINS?](https://arxiv.org/pdf/2410.03859)
 2. [SWE-bench Verified](https://openai.com/index/introducing-swe-bench-verified/)
 3. [Code Generation with Small Language Models: A Deep Evaluation on Codeforces](https://arxiv.org/pdf/2504.07343)
+4. [IDA-Bench: Evaluating LLMs on Interactive Guided Data Analysis](https://arxiv.org/pdf/2505.18223)
 
 ## Multimodal
 1. [WebVoyager: Building an End-to-End Web Agent with Large Multimodal Models](https://arxiv.org/pdf/2401.13919)
@@ -134,6 +141,9 @@
 2. [LLM Training with DeepSpeed](https://github.com/microsoft/DeepSpeed)
 3. [Gemini Flash Pretraining](https://vladfeinberg.com/2025/04/24/gemini-flash-pretraining.html)
 4. [Deepmind Efficient Training of Large Language Models](https://www.youtube.com/watch?v=1MqlbPsWnAA)
+5. [Beyond Chinchilla-Optimal: Accounting for Inference in Language Model Scaling Laws](https://arxiv.org/abs/2401.00448)
+6. [Scaling Data-Constrained Language Models](https://vladfeinberg.com/assets/2025-04-24-princeton-talk.pdf)
+7. [TorchTitan: One-stop PyTorch native solution for production ready LLM pre-training](https://arxiv.org/html/2410.06511v2)
 
 ## Reinforcement Learning
 1. [SkyRL](https://github.com/NovaSky-AI/SkyRL)
@@ -141,6 +151,7 @@
 3. [TinyZero](https://github.com/leaplab-thu/TinyZero)
 4. [ZeroReason](https://github.com/Jiayi-Pan/TinyZero)
 5. [rLLM](https://github.com/agentica-project/rllm)
+6. [Spurious Rewards: Rethinking Training Signals in RLVR](https://rethink-rlvr.notion.site/Spurious-Rewards-Rethinking-Training-Signals-in-RLVR-1f4df34dac1880948858f95aeb88872f)
 
 ## AI Chip Manufacturing
 
