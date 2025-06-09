@@ -103,6 +103,7 @@
 2. [Evolving Deeper LLM Thinking](https://arxiv.org/pdf/2501.09891)
 3. [OpenAI Agents SDK](https://github.com/openai/openai-agents-python)
 4. [OpenAI Evals](https://github.com/openai/evals)
+5. [Deliberative Alignment: Reasoning Enables Safer Language Models](https://arxiv.org/pdf/2412.16339)
 
 ## Agent Browser Tools
 1. [Stagehand Docs](https://docs.stagehand.dev/get_started/introduction)
