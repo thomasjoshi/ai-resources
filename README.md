@@ -81,6 +81,8 @@
 ## Distributed AI Inference
 1. [DistServe: Disaggregating Prefill and Decoding for Goodput-optimized Large Language Model Serving](https://www.usenix.org/system/files/osdi24-zhong-yinmin.pdf)
 2. [Dynamo AI Tutorials](https://www.linkedin.com/posts/vikramsharmam_distributed-inference-101-getting-started-activity-7308019486517858305-JX7e?utm_source=share&utm_medium=member_ios&rcm=ACoAAB-7BosBbrFaamvv690_M7ruCd3EHmcHhg0)
+3. [How to Scale Your Model](https://jax-ml.github.io/scaling-book/)
+4. [NVIDIA Reading List](https://www.linkedin.com/posts/kyle-kranen_how-to-scale-your-model-activity-7338787511961362433-mH1r?utm_source=share&utm_medium=member_ios&rcm=ACoAAB-7BosBbrFaamvv690_M7ruCd3EHmcHhg0)
 
 ## Synthetic Data Generation
 1. [Synthetic Data Generation & Multi-Step RL for Reasoning & Tool Use](https://arxiv.org/pdf/2504.04736)
