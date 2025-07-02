@@ -1,4 +1,4 @@
-# Thomas Joshi's Guide to AI Engineering Mastery
+# Thomas Joshi's Guide to AI Engineering
 
 ## MCP
 
@@ -187,6 +187,9 @@
 
 ## Compute Orchestration
 1. [Cilantro: Performance-Aware Resource Allocation for Large LanguageGeneral Objectives via Online Feedback](https://www.usenix.org/system/files/osdi23-bhardwaj.pdf)
+
+## Representation Learning
+1. [The Platonic Representation Hypothesis](https://arxiv.org/pdf/2405.07987)
 
 ## Mathematic Foundations
 1. Numerical Optimization by Jorge Nocedal Stephen Wright
